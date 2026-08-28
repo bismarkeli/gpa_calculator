@@ -117,7 +117,7 @@ to handle invalid input.
 
 ---
 
-## 🏫 Supported Grading Systems
+## Supported Grading Systems
 
 ### Ghana Communication Technology University (GCTU)
 
